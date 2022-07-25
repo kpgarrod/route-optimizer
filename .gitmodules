@@ -1,4 +1,0 @@
-[submodule "kpgarrod/pushbullet"]
-	path = kpgarrod/pushbullet
-	url = git@github.com:kpgarrod/pushbullet.git
-	branch = master
